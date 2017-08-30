@@ -8,6 +8,8 @@ No.|Title|Difficulty
 053|Maximum Subarray|Easy 
 066|Plus One|Easy  
 088|Merge Sorted Array|Easy  
+118|Pascal's Triangle|Easy  
+119|Pascal's Triangle II|Easy  
 121|Best Time to Buy and Sell Stock|Easy  
 122|Best Time to Buy and Sell Stock II|Easy  
 167|Two Sum II - Input array is sorted|Easy  
