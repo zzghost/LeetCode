@@ -15,6 +15,7 @@ No.|Title|Difficulty
 122|Best Time to Buy and Sell Stock II|Easy  
 167|Two Sum II - Input array is sorted|Easy  
 169|Majority Element|Easy  
+189|Rotate Array|Easy  
 217|Contains Duplicate|Easy  
 219|Contains Duplicate II|Easy  
 561|Array Partition I|Easy  
