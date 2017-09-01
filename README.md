@@ -18,6 +18,7 @@ No.|Title|Difficulty
 189|Rotate Array|Easy  
 217|Contains Duplicate|Easy  
 219|Contains Duplicate II|Easy  
+283|Move Zeroes|Easy  
 561|Array Partition I|Easy  
 ### String  
 No.|Title|Difficulty  
