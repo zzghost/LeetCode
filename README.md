@@ -21,7 +21,9 @@ No.|Title|Difficulty
 268|Missing Number|Easy  
 283|Move Zeroes|Easy  
 448|Find All Numbers Disappeared in an Array|Easy  
+485|Max Consecutive Ones|Easy  
 561|Array Partition I|Easy  
+566|Reshape the Matrix|Easy  
 661|Image Smoother|Easy  
 665|Non-decreasing Array|Easy  
 ### String  
