@@ -24,6 +24,7 @@ No.|Title|Difficulty
 485|Max Consecutive Ones|Easy  
 561|Array Partition I|Easy  
 566|Reshape the Matrix|Easy  
+643|Maximum Average Subarray I|Easy  
 661|Image Smoother|Easy  
 665|Non-decreasing Array|Easy  
 ### String  
