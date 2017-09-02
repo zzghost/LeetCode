@@ -18,7 +18,9 @@ No.|Title|Difficulty
 189|Rotate Array|Easy  
 217|Contains Duplicate|Easy  
 219|Contains Duplicate II|Easy  
+268|Missing Number|Easy  
 283|Move Zeroes|Easy  
+448|Find All Numbers Disappeared in an Array|Easy  
 561|Array Partition I|Easy  
 ### String  
 No.|Title|Difficulty  
