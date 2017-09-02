@@ -22,6 +22,8 @@ No.|Title|Difficulty
 283|Move Zeroes|Easy  
 448|Find All Numbers Disappeared in an Array|Easy  
 561|Array Partition I|Easy  
+661|Image Smoother|Easy  
+665|Non-decreasing Array|Easy  
 ### String  
 No.|Title|Difficulty  
 ---|-----|----------  
