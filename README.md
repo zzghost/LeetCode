@@ -25,6 +25,7 @@ No.|Title|Difficulty
 485|Max Consecutive Ones|Easy  
 561|Array Partition I|Easy  
 566|Reshape the Matrix|Easy  
+581|Shortest Unsorted Continuous Subarray|Easy  
 605|Can Place Flowers|Easy  
 628|Maximum Product of Three Numbers|Easy  
 643|Maximum Average Subarray I|Easy  
