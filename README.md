@@ -20,6 +20,7 @@ No.|Title|Difficulty
 219|Contains Duplicate II|Easy  
 268|Missing Number|Easy  
 283|Move Zeroes|Easy  
+414|Third Maximum Number|Easy  
 448|Find All Numbers Disappeared in an Array|Easy  
 485|Max Consecutive Ones|Easy  
 561|Array Partition I|Easy  
