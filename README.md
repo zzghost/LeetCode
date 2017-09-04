@@ -23,6 +23,7 @@ No.|Title|Difficulty
 414|Third Maximum Number|Easy  
 448|Find All Numbers Disappeared in an Array|Easy  
 485|Max Consecutive Ones|Easy  
+532|K-diff Pairs in an Array|Easy  
 561|Array Partition I|Easy  
 566|Reshape the Matrix|Easy  
 581|Shortest Unsorted Continuous Subarray|Easy  
