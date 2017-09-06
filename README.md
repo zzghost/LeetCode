@@ -25,6 +25,7 @@ No.|Title|Difficulty
 442|Find All Duplicates in an Array|Medium  
 448|Find All Numbers Disappeared in an Array|Easy  
 485|Max Consecutive Ones|Easy  
+495|Teemo Attacking|Easy  
 532|K-diff Pairs in an Array|Easy  
 560|Subarray Sum Equals K|Medium  
 561|Array Partition I|Easy  
