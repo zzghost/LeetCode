@@ -13,6 +13,7 @@ No.|Title|Difficulty
 119|Pascal's Triangle II|Easy  
 121|Best Time to Buy and Sell Stock|Easy  
 122|Best Time to Buy and Sell Stock II|Easy  
+153|Find Minimum in Rotated Sorted Array|Medium  
 167|Two Sum II - Input array is sorted|Easy  
 169|Majority Element|Easy  
 189|Rotate Array|Easy  
@@ -21,6 +22,7 @@ No.|Title|Difficulty
 268|Missing Number|Easy  
 283|Move Zeroes|Easy  
 414|Third Maximum Number|Easy  
+442|Find All Duplicates in an Array|Medium  
 448|Find All Numbers Disappeared in an Array|Easy  
 485|Max Consecutive Ones|Easy  
 532|K-diff Pairs in an Array|Easy  
