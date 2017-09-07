@@ -21,6 +21,7 @@ No.|Title|Difficulty
 219|Contains Duplicate II|Easy  
 268|Missing Number|Easy  
 283|Move Zeroes|Easy  
+287|Find the Duplicate Number|Medium  
 414|Third Maximum Number|Easy  
 442|Find All Duplicates in an Array|Medium  
 448|Find All Numbers Disappeared in an Array|Easy  
