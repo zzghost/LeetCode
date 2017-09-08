@@ -34,6 +34,7 @@ No.|Title|Difficulty
 566|Reshape the Matrix|Easy  
 581|Shortest Unsorted Continuous Subarray|Easy  
 605|Can Place Flowers|Easy  
+611|Valid Triangle Number|Medium  
 628|Maximum Product of Three Numbers|Easy  
 643|Maximum Average Subarray I|Easy  
 661|Image Smoother|Easy  
