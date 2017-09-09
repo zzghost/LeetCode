@@ -21,6 +21,7 @@ No.|Title|Difficulty
 189|Rotate Array|Easy  
 217|Contains Duplicate|Easy  
 219|Contains Duplicate II|Easy  
+238|Product of Array Except Self|Medium  
 268|Missing Number|Easy  
 283|Move Zeroes|Easy  
 287|Find the Duplicate Number|Medium  
@@ -32,6 +33,7 @@ No.|Title|Difficulty
 532|K-diff Pairs in an Array|Easy  
 560|Subarray Sum Equals K|Medium  
 561|Array Partition I|Easy  
+565|Array Nesting|Medium  
 566|Reshape the Matrix|Easy  
 581|Shortest Unsorted Continuous Subarray|Easy  
 605|Can Place Flowers|Easy  
