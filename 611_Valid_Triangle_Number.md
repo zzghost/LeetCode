@@ -15,14 +15,14 @@ Valid combinations are:
 1. The length of the given array won't exceed 1000.  
 2. The integers in the given array are in the range of [0, 1000].  
 ## Solution
-Three pointers.  
+1. Three pointers.  
 First, sort the array.  
 `nums[i]` is the base.  
 `nums[left]` is the smaller.  
 `nums[right]` is the larger.  
 if `nums[i] < nums[left] + nums[right]`, all numbers between `left` and `right - 1` can be the smaller edge. Then `right` go left.  
-else, the smaller edge should go right to be larger.
-**Complexity: Time O(nlogn), Space O(1)**
+else, the smaller edge should go right to be larger.  
+**Complexity: Time O(n^2), Space O(1)**
 ```java
 public int triangleNumber(int[] nums) {
     int count = 0;
