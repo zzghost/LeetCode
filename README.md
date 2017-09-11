@@ -48,6 +48,7 @@ No.|Title|Difficulty
 No.|Title|Difficulty  
 ---|-----|----------  
 344|Reverse String|Easy  
+541|Reverse String II|Easy  
 ### Tree  
 No.|Title|Difficulty  
 ---|-----|----------  
