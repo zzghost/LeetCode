@@ -30,7 +30,6 @@ No.|Title|Difficulty
 448|Find All Numbers Disappeared in an Array|Easy  
 485|Max Consecutive Ones|Easy  
 495|Teemo Attacking|Easy  
-526|Beautiful Arrangement|Medium  
 532|K-diff Pairs in an Array|Easy  
 560|Subarray Sum Equals K|Medium  
 561|Array Partition I|Easy  
@@ -44,9 +43,14 @@ No.|Title|Difficulty
 643|Maximum Average Subarray I|Easy  
 661|Image Smoother|Easy  
 665|Non-decreasing Array|Easy  
+667|Beautiful Arrangement II|Medium  
 ### String  
 No.|Title|Difficulty  
 ---|-----|----------  
 ### Tree  
 No.|Title|Difficulty  
 ---|-----|----------  
+### Other  
+No.|Title|Difficulty|Comment  
+---|-----|----------|-------  
+526|Beautiful Arrangement|Medium|BackTracking  
