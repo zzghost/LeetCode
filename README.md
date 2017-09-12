@@ -52,6 +52,9 @@ No.|Title|Difficulty
 ### Tree  
 No.|Title|Difficulty  
 ---|-----|----------  
+### Math
+No.|Title|Difficulty  
+007|Reverse Integer|Easy  
 ### Other  
 No.|Title|Difficulty|Comment  
 ---|-----|----------|-------  
