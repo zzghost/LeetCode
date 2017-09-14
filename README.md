@@ -57,8 +57,9 @@ No.|Title|Difficulty
 ---|-----|----------  
 007|Reverse Integer|Easy  
 ### Binary Search
-No.|Title|Difficulty  
----|-----|----------  
+No.|Title|Difficulty|Comment  
+---|-----|----------|-------  
+050|Pow(x,n)|Medium|Divide and Conquer  
 069|Sqrt(x)|Easy  
 240|Search a 2D Matrix II|Medium  
 278|Find Bad Version|Easy  
