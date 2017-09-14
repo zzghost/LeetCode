@@ -54,7 +54,12 @@ No.|Title|Difficulty
 ---|-----|----------  
 ### Math
 No.|Title|Difficulty  
+---|-----|----------  
 007|Reverse Integer|Easy  
+### Binary Search
+No.|Title|Difficulty  
+---|-----|----------  
+240|Search a 2D Matrix II|Medium  
 ### Other  
 No.|Title|Difficulty|Comment  
 ---|-----|----------|-------  
