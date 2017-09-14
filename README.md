@@ -59,7 +59,9 @@ No.|Title|Difficulty
 ### Binary Search
 No.|Title|Difficulty  
 ---|-----|----------  
+069|Sqrt(x)|Easy  
 240|Search a 2D Matrix II|Medium  
+278|Find Bad Version|Easy  
 ### Other  
 No.|Title|Difficulty|Comment  
 ---|-----|----------|-------  
