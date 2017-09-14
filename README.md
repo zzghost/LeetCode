@@ -64,6 +64,8 @@ No.|Title|Difficulty|Comment
 240|Search a 2D Matrix II|Medium  
 278|Find Bad Version|Easy  
 349|Intersection of Two Arrays|Easy  
+367|Valid Perfect Square|Easy  
+441|Arranging Coins|Easy  
 ### Other  
 No.|Title|Difficulty|Comment  
 ---|-----|----------|-------  
