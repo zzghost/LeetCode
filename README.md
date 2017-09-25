@@ -11,6 +11,7 @@ No.|Title|Difficulty
 062|Unique Paths|Easy  
 064|Minimum Path Sum|Medium  
 066|Plus One|Easy  
+073|Set Matrix Zeroes|Medium  
 074|Search a 2D Matrix|Medium  
 078|Subsets|Medium  
 088|Merge Sorted Array|Easy  
