@@ -7,6 +7,7 @@ No.|Title|Difficulty
 027|Remove Element|Easy  
 035|Search Insert Position|Easy  
 053|Maximum Subarray|Easy  
+059|Spiral Matrix II|Medium  
 062|Unique Paths|Easy  
 064|Minimum Path Sum|Medium  
 066|Plus One|Easy  
