@@ -45,6 +45,7 @@ No.|Title|Difficulty
 661|Image Smoother|Easy  
 665|Non-decreasing Array|Easy  
 667|Beautiful Arrangement II|Medium  
+674|Longest Continuous Increasing Subsequence|Easy
 ### String  
 No.|Title|Difficulty  
 ---|-----|----------  
