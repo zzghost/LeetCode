@@ -8,6 +8,7 @@ No.|Title|Difficulty
 035|Search Insert Position|Easy  
 053|Maximum Subarray|Easy  
 062|Unique Paths|Easy  
+064|Minimum Path Sum|Medium  
 066|Plus One|Easy  
 078|Subsets|Medium  
 088|Merge Sorted Array|Easy  
