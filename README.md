@@ -14,6 +14,7 @@ No.|Title|Difficulty
 073|Set Matrix Zeroes|Medium  
 074|Search a 2D Matrix|Medium  
 078|Subsets|Medium  
+079|Word Search|Medium  
 080|Remove Duplicates from Sorted Array II|Medium  
 088|Merge Sorted Array|Easy  
 118|Pascal's Triangle|Easy  
