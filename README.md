@@ -2,7 +2,7 @@
 ### Arrays  
 No.|Title|Difficulty  
 ---|-----|----------  
-001|Two_Sums|Easy  
+001|Two Sums|Easy  
 026|Remove Duplicates from Sorted Array|Easy  
 027|Remove Element|Easy  
 035|Search Insert Position|Easy  
@@ -10,6 +10,7 @@ No.|Title|Difficulty
 062|Unique Paths|Easy  
 066|Plus One|Easy  
 078|Subsets|Medium  
+080|Remove Duplicates from Sorted Array II|Medium  
 088|Merge Sorted Array|Easy  
 118|Pascal's Triangle|Easy  
 119|Pascal's Triangle II|Easy  
@@ -64,7 +65,9 @@ No.|Title|Difficulty|Comment
 240|Search a 2D Matrix II|Medium  
 278|Find Bad Version|Easy  
 349|Intersection of Two Arrays|Easy  
+350|Intersection of Two Arrays II|Easy  
 367|Valid Perfect Square|Easy  
+374|Guess Number Higher or Lower|Easy  
 441|Arranging Coins|Easy  
 ### Other  
 No.|Title|Difficulty|Comment  
