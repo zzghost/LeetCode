@@ -7,8 +7,12 @@ No.|Title|Difficulty
 027|Remove Element|Easy  
 035|Search Insert Position|Easy  
 053|Maximum Subarray|Easy  
+059|Spiral Matrix II|Medium  
 062|Unique Paths|Easy  
+064|Minimum Path Sum|Medium  
 066|Plus One|Easy  
+073|Set Matrix Zeroes|Medium  
+074|Search a 2D Matrix|Medium  
 078|Subsets|Medium  
 080|Remove Duplicates from Sorted Array II|Medium  
 088|Merge Sorted Array|Easy  
@@ -45,6 +49,7 @@ No.|Title|Difficulty
 661|Image Smoother|Easy  
 665|Non-decreasing Array|Easy  
 667|Beautiful Arrangement II|Medium  
+674|Longest Continuous Increasing Subsequence|Easy
 ### String  
 No.|Title|Difficulty  
 ---|-----|----------  
