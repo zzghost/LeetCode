@@ -56,6 +56,7 @@ No.|Title|Difficulty
 No.|Title|Difficulty  
 ---|-----|----------  
 344|Reverse String|Easy  
+345|Reverse Vowels of a String|Easy
 383|Ransom Note|Easy  
 520|Detect Capital|Easy  
 541|Reverse String II|Easy  
