@@ -60,6 +60,7 @@ No.|Title|Difficulty
 383|Ransom Note|Easy  
 520|Detect Capital|Easy  
 541|Reverse String II|Easy  
+551|Student Attendance Record I|Easy  
 557|Reverse Words in a String III|Easy  
 606|Construct String from Binary Tree|Easy  
 657|Judge Route Circle|Easy  
