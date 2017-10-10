@@ -56,6 +56,7 @@ No.|Title|Difficulty
 No.|Title|Difficulty  
 ---|-----|----------  
 344|Reverse String|Easy  
+520|Detect Capital|Easy  
 541|Reverse String II|Easy  
 557|Reverse Words in a String III|Easy  
 ### Tree  
