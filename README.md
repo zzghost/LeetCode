@@ -5,6 +5,7 @@ No.|Title|Difficulty
 001|Two Sums|Easy  
 026|Remove Duplicates from Sorted Array|Easy  
 027|Remove Element|Easy  
+034|Search for a Range|Medium  
 035|Search Insert Position|Easy  
 039|Combination Sum|Medium  
 053|Maximum Subarray|Easy  
