@@ -75,6 +75,7 @@ No.|Title|Difficulty|Comment
 ---|-----|----------|-------  
 050|Pow(x,n)|Medium|Divide and Conquer  
 069|Sqrt(x)|Easy  
+162|Find Peak Element|Medium  
 240|Search a 2D Matrix II|Medium  
 278|Find Bad Version|Easy  
 349|Intersection of Two Arrays|Easy  
