@@ -5,11 +5,13 @@ No.|Title|Difficulty
 001|Two Sums|Easy  
 026|Remove Duplicates from Sorted Array|Easy  
 027|Remove Element|Easy  
+034|Search for a Range|Medium  
 035|Search Insert Position|Easy  
 039|Combination Sum|Medium  
 053|Maximum Subarray|Easy  
 059|Spiral Matrix II|Medium  
 062|Unique Paths|Easy  
+063|Unique Paths II|Medium  
 064|Minimum Path Sum|Medium  
 066|Plus One|Easy  
 073|Set Matrix Zeroes|Medium  
@@ -55,11 +57,13 @@ No.|Title|Difficulty
 ### String  
 No.|Title|Difficulty  
 ---|-----|----------  
+125|Valid Palindrome|Easy  
 344|Reverse String|Easy  
 345|Reverse Vowels of a String|Easy
 383|Ransom Note|Easy  
 520|Detect Capital|Easy  
 541|Reverse String II|Easy  
+551|Student Attendance Record I|Easy  
 557|Reverse Words in a String III|Easy  
 606|Construct String from Binary Tree|Easy  
 657|Judge Route Circle|Easy  
