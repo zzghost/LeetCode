@@ -69,4 +69,3 @@ public int[] searchRange(int[] nums, int target) {
     return rst;
 }
 ```
-3. 

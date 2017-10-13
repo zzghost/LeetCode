@@ -9,7 +9,9 @@ No.|Title|Difficulty
 034|Search for a Range|Medium  
 035|Search Insert Position|Easy  
 039|Combination Sum|Medium  
+048|Rotate Image|Medium  
 053|Maximum Subarray|Easy  
+056|Merge Intervals|Medium  
 059|Spiral Matrix II|Medium  
 062|Unique Paths|Easy  
 063|Unique Paths II|Medium  
@@ -21,6 +23,8 @@ No.|Title|Difficulty
 079|Word Search|Medium  
 080|Remove Duplicates from Sorted Array II|Medium  
 088|Merge Sorted Array|Easy  
+105|Construct Binary Tree from Preorder and Inorder Traversal|Medium  
+106|Construct Binary Tree from Inorder and Postorder Traversal|Medium  
 118|Pascal's Triangle|Easy  
 119|Pascal's Triangle II|Easy  
 121|Best Time to Buy and Sell Stock|Easy  
@@ -80,6 +84,7 @@ No.|Title|Difficulty|Comment
 ---|-----|----------|-------  
 050|Pow(x,n)|Medium|Divide and Conquer  
 069|Sqrt(x)|Easy  
+162|Find Peak Element|Medium  
 240|Search a 2D Matrix II|Medium  
 278|Find Bad Version|Easy  
 349|Intersection of Two Arrays|Easy  
