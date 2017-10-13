@@ -8,6 +8,7 @@ No.|Title|Difficulty
 034|Search for a Range|Medium  
 035|Search Insert Position|Easy  
 039|Combination Sum|Medium  
+048|Rotate Image|Medium  
 053|Maximum Subarray|Easy  
 056|Merge Intervals|Medium  
 059|Spiral Matrix II|Medium  
