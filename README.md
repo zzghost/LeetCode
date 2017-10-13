@@ -9,6 +9,7 @@ No.|Title|Difficulty
 035|Search Insert Position|Easy  
 039|Combination Sum|Medium  
 053|Maximum Subarray|Easy  
+056|Merge Intervals|Medium  
 059|Spiral Matrix II|Medium  
 062|Unique Paths|Easy  
 063|Unique Paths II|Medium  
