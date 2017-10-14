@@ -98,4 +98,5 @@ No.|Title|Difficulty|Comment
 No.|Title|Difficulty|Comment  
 ---|-----|----------|-------  
 526|Beautiful Arrangement|Medium|BackTracking  
-695|Max Area of Island|BackTracking  
+595|Big Countries|Easy|SQL  
+695|Max Area of Island|Easy|BackTracking  
