@@ -81,6 +81,7 @@ No.|Title|Difficulty
 No.|Title|Difficulty  
 ---|-----|----------  
 007|Reverse Integer|Easy  
+258|Add Digits|Easy  
 ### Binary Search
 No.|Title|Difficulty|Comment  
 ---|-----|----------|-------  
