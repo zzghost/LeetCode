@@ -20,6 +20,7 @@ No.|Title|Difficulty
 066|Plus One|Easy  
 073|Set Matrix Zeroes|Medium  
 074|Search a 2D Matrix|Medium  
+075|Sort Colors|Medium
 078|Subsets|Medium  
 079|Word Search|Medium  
 080|Remove Duplicates from Sorted Array II|Medium  
