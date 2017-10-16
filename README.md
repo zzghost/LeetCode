@@ -12,6 +12,7 @@ No.|Title|Difficulty
 039|Combination Sum|Medium  
 048|Rotate Image|Medium  
 053|Maximum Subarray|Easy  
+054|Spiral Matrix|Medium
 056|Merge Intervals|Medium  
 059|Spiral Matrix II|Medium  
 062|Unique Paths|Easy  
