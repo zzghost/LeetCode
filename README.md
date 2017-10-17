@@ -10,6 +10,7 @@ No.|Title|Difficulty
 034|Search for a Range|Medium  
 035|Search Insert Position|Easy  
 039|Combination Sum|Medium  
+040|Combination Sum II|Medium
 048|Rotate Image|Medium  
 053|Maximum Subarray|Easy  
 054|Spiral Matrix|Medium
