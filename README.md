@@ -63,6 +63,7 @@ No.|Title|Difficulty
 643|Maximum Average Subarray I|Easy  
 661|Image Smoother|Easy  
 665|Non-decreasing Array|Easy  
+670|Maximum Swap|Medium
 667|Beautiful Arrangement II|Medium  
 674|Longest Continuous Increasing Subsequence|Easy
 ### String  
