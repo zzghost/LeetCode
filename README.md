@@ -32,6 +32,7 @@ No.|Title|Difficulty
 106|Construct Binary Tree from Inorder and Postorder Traversal|Medium  
 118|Pascal's Triangle|Easy  
 119|Pascal's Triangle II|Easy  
+120|Triangle|Medium  
 121|Best Time to Buy and Sell Stock|Easy  
 122|Best Time to Buy and Sell Stock II|Easy  
 153|Find Minimum in Rotated Sorted Array|Medium  
