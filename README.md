@@ -45,6 +45,7 @@ No.|Title|Difficulty
 268|Missing Number|Easy  
 283|Move Zeroes|Easy  
 287|Find the Duplicate Number|Medium  
+289|Game of Life|Medium
 380|Insert Delete GetRandom O(1)|Medium
 414|Third Maximum Number|Easy  
 442|Find All Duplicates in an Array|Medium  
