@@ -9,7 +9,7 @@ You have to rotate the image in-place, which means you have to modify the input 
 
 Example 1:
 ```
-Given input matrix = 
+Given input matrix =
 [
 [1,2,3],
 [4,5,6],
@@ -31,7 +31,7 @@ Given input matrix =
 [ 2, 4, 8,10],
 [13, 3, 6, 7],
 [15,14,12,16]
-], 
+],
 
 rotate the input matrix in-place such that it becomes:
 [
@@ -42,6 +42,7 @@ rotate the input matrix in-place such that it becomes:
 ]
 ```
 ## Solution
+1. Four vertexes.  
 View it as exchanging four vertexes.
 **Complexity: Time O(n^2), Space O(1).**
 ```java
@@ -55,6 +56,44 @@ public void rotate(int[][] matrix) {
             matrix[j][n - i - 1] = matrix[i][j];
             matrix[i][j] = tmp;
         }
+    }
+}
+```
+2. Symmetry exchange and horizontal exchange.  
+Step 1: do Symmetry Exchange.  
+```
+1 2 3
+4 5 6
+7 8 9
+becomes:
+1 4 7
+2 5 8
+3 6 9
+```
+Step 2: do Horizontal Exchange.  
+```
+becomes:
+7 4 1
+8 5 2
+9 6 3
+```
+```java
+class Solution {
+    public void rotate(int[][] matrix) {
+        int n = matrix.length;
+        for(int i = 0; i < n; i++)
+            for(int j = i; j < n; j++){
+                int temp = matrix[i][j];
+                matrix[i][j] = matrix[j][i];
+                matrix[j][i] = temp;
+            }
+
+        for(int i = 0; i < n; i++)
+            for(int j = 0; j < n / 2; j++){
+                int temp = matrix[i][j];
+                matrix[i][j] = matrix[i][n - j - 1];
+                matrix[i][n - j - 1] = temp;
+            }
     }
 }
 ```
