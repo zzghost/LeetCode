@@ -4,6 +4,8 @@ No.|Title|Difficulty
 ---|-----|----------  
 001|Two Sums|Easy  
 011|Container With Most Water|Medium
+015|3Sum|Medium
+016|3Sum Closest|Medium
 026|Remove Duplicates from Sorted Array|Easy  
 027|Remove Element|Easy  
 033|Search in Rotated Sorted Array|Medium  
