@@ -16,6 +16,7 @@ No.|Title|Difficulty
 048|Rotate Image|Medium  
 053|Maximum Subarray|Easy  
 054|Spiral Matrix|Medium
+055|Jump Game|Medium
 056|Merge Intervals|Medium  
 059|Spiral Matrix II|Medium  
 062|Unique Paths|Easy  
