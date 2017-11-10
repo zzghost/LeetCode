@@ -6,6 +6,7 @@ No.|Title|Difficulty
 011|Container With Most Water|Medium
 015|3Sum|Medium
 016|3Sum Closest|Medium
+018|4Sum|Medium
 026|Remove Duplicates from Sorted Array|Easy  
 027|Remove Element|Easy  
 033|Search in Rotated Sorted Array|Medium  
@@ -48,6 +49,7 @@ No.|Title|Difficulty
 216|Combination Sum III|Medium
 217|Contains Duplicate|Easy  
 219|Contains Duplicate II|Easy  
+228|Summary Ranges|Medium
 238|Product of Array Except Self|Medium  
 268|Missing Number|Easy  
 283|Move Zeroes|Easy  
