@@ -50,6 +50,7 @@ No.|Title|Difficulty
 217|Contains Duplicate|Easy  
 219|Contains Duplicate II|Easy  
 228|Summary Ranges|Medium
+229|Majority Element II|Medium
 238|Product of Array Except Self|Medium  
 268|Missing Number|Easy  
 283|Move Zeroes|Easy  
