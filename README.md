@@ -9,6 +9,7 @@ No.|Title|Difficulty
 018|4Sum|Medium
 026|Remove Duplicates from Sorted Array|Easy  
 027|Remove Element|Easy  
+031|Next Permutation|Medium
 033|Search in Rotated Sorted Array|Medium  
 034|Search for a Range|Medium  
 035|Search Insert Position|Easy  
@@ -30,6 +31,7 @@ No.|Title|Difficulty
 078|Subsets|Medium  
 079|Word Search|Medium  
 080|Remove Duplicates from Sorted Array II|Medium  
+081|Search in Rotated Sorted Array II|Medium
 088|Merge Sorted Array|Easy  
 090|Subsets II|Medium  
 105|Construct Binary Tree from Preorder and Inorder Traversal|Medium  
