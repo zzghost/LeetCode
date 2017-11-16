@@ -15,6 +15,7 @@ No.|Title|Difficulty
 035|Search Insert Position|Easy  
 039|Combination Sum|Medium  
 040|Combination Sum II|Medium
+042|Trapping Rain Water|Hard
 048|Rotate Image|Medium  
 053|Maximum Subarray|Easy  
 054|Spiral Matrix|Medium
@@ -42,6 +43,7 @@ No.|Title|Difficulty
 121|Best Time to Buy and Sell Stock|Easy  
 122|Best Time to Buy and Sell Stock II|Easy
 123|Best Time to Buy and Sell Stock III|Hard  
+128|Longest Consecutive Sequence|Hard
 152|Maximum Product Subarray|Medium
 153|Find Minimum in Rotated Sorted Array|Medium  
 167|Two Sum II - Input array is sorted|Easy  
@@ -80,6 +82,7 @@ No.|Title|Difficulty
 670|Maximum Swap|Medium
 667|Beautiful Arrangement II|Medium  
 674|Longest Continuous Increasing Subsequence|Easy
+689|Maximum Sum of 3 Non-Overlapping Subarrays|Hard
 ### String  
 No.|Title|Difficulty  
 ---|-----|----------  
