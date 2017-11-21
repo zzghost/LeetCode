@@ -33,6 +33,7 @@ No.|Title|Difficulty
 079|Word Search|Medium  
 080|Remove Duplicates from Sorted Array II|Medium  
 081|Search in Rotated Sorted Array II|Medium
+084|Largest Rectangle in Histogram|Hard
 088|Merge Sorted Array|Easy  
 090|Subsets II|Medium  
 105|Construct Binary Tree from Preorder and Inorder Traversal|Medium  
@@ -46,6 +47,7 @@ No.|Title|Difficulty
 128|Longest Consecutive Sequence|Hard
 152|Maximum Product Subarray|Medium
 153|Find Minimum in Rotated Sorted Array|Medium  
+154|Find Minimum in Rotated Sorted Array II|Hard
 167|Two Sum II - Input array is sorted|Easy  
 169|Majority Element|Easy  
 189|Rotate Array|Easy  
@@ -82,7 +84,6 @@ No.|Title|Difficulty
 670|Maximum Swap|Medium
 667|Beautiful Arrangement II|Medium  
 674|Longest Continuous Increasing Subsequence|Easy
-689|Maximum Sum of 3 Non-Overlapping Subarrays|Hard
 ### String  
 No.|Title|Difficulty  
 ---|-----|----------  
