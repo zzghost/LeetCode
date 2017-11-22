@@ -16,6 +16,7 @@ No.|Title|Difficulty
 039|Combination Sum|Medium  
 040|Combination Sum II|Medium
 042|Trapping Rain Water|Hard
+045|Jump Game II|Hard
 048|Rotate Image|Medium  
 053|Maximum Subarray|Easy  
 054|Spiral Matrix|Medium
