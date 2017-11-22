@@ -15,6 +15,7 @@ No.|Title|Difficulty
 035|Search Insert Position|Easy  
 039|Combination Sum|Medium  
 040|Combination Sum II|Medium
+041|First Missing Positive|Hard
 042|Trapping Rain Water|Hard
 045|Jump Game II|Hard
 048|Rotate Image|Medium  
