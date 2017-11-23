@@ -36,6 +36,7 @@ No.|Title|Difficulty
 080|Remove Duplicates from Sorted Array II|Medium  
 081|Search in Rotated Sorted Array II|Medium
 084|Largest Rectangle in Histogram|Hard
+085|Maximal Rectangle|Hard
 088|Merge Sorted Array|Easy  
 090|Subsets II|Medium  
 105|Construct Binary Tree from Preorder and Inorder Traversal|Medium  
