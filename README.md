@@ -13,6 +13,7 @@ No.|Title|Difficulty
 033|Search in Rotated Sorted Array|Medium  
 034|Search for a Range|Medium  
 035|Search Insert Position|Easy  
+036|Valid Sudoku|Medium
 039|Combination Sum|Medium  
 040|Combination Sum II|Medium
 041|First Missing Positive|Hard
