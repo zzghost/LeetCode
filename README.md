@@ -92,6 +92,7 @@ No.|Title|Difficulty
 No.|Title|Difficulty  
 ---|-----|----------  
 058|Length of Last Word|Easy  
+065|Valid Number|Hard
 125|Valid Palindrome|Easy  
 344|Reverse String|Easy  
 345|Reverse Vowels of a String|Easy
