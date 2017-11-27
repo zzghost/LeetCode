@@ -92,6 +92,7 @@ No.|Title|Difficulty
 ### String  
 No.|Title|Difficulty  
 ---|-----|----------  
+013|Roman to Integer|Easy
 058|Length of Last Word|Easy  
 065|Valid Number|Hard
 125|Valid Palindrome|Easy  
@@ -104,6 +105,10 @@ No.|Title|Difficulty
 557|Reverse Words in a String III|Easy  
 606|Construct String from Binary Tree|Easy  
 657|Judge Route Circle|Easy  
+### Linked List
+No.|Title|Difficulty  
+---|-----|----------
+002|Add Two Numbers|Medium
 ### Tree  
 No.|Title|Difficulty  
 ---|-----|----------  
