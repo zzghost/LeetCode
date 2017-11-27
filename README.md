@@ -133,6 +133,7 @@ No.|Title|Difficulty|Comment
 No.|Title|Difficulty|Comment  
 ---|-----|----------|-------  
 046|Permutations|Medium|BackTracking
+047|Permutations II|Medium|BackTracking
 526|Beautiful Arrangement|Medium|BackTracking  
 595|Big Countries|Easy|SQL  
 695|Max Area of Island|Easy|BackTracking  
