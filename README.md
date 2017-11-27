@@ -108,6 +108,7 @@ No.|Title|Difficulty
 ---|-----|----------  
 102|Binary Tree Level Order Traversal|Medium
 103|Binary Tree Zigzag Level Order Traversal|Medium
+112|Path Sum|Easy
 ### Math
 No.|Title|Difficulty  
 ---|-----|----------  
