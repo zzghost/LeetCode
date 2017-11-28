@@ -142,6 +142,7 @@ No.|Title|Difficulty|Comment
 ---|-----|----------|-------  
 046|Permutations|Medium|BackTracking
 047|Permutations II|Medium|BackTracking
+371|Sum of Two Integers|Bit Manipulation
 526|Beautiful Arrangement|Medium|BackTracking  
 595|Big Countries|Easy|SQL  
 695|Max Area of Island|Easy|BackTracking  
