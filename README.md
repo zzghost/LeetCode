@@ -99,7 +99,8 @@ No.|Title|Difficulty
 125|Valid Palindrome|Easy  
 344|Reverse String|Easy  
 345|Reverse Vowels of a String|Easy
-383|Ransom Note|Easy  
+383|Ransom Note|Easy
+415|Add Strings|Easy
 520|Detect Capital|Easy  
 541|Reverse String II|Easy  
 551|Student Attendance Record I|Easy  
@@ -110,6 +111,7 @@ No.|Title|Difficulty
 No.|Title|Difficulty  
 ---|-----|----------
 002|Add Two Numbers|Medium
+445|Add Two Numbers II|Medium
 ### Tree  
 No.|Title|Difficulty  
 ---|-----|----------  
