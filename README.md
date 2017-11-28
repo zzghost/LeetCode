@@ -95,6 +95,7 @@ No.|Title|Difficulty
 013|Roman to Integer|Easy
 058|Length of Last Word|Easy  
 065|Valid Number|Hard
+067|Add Binary|Easy
 125|Valid Palindrome|Easy  
 344|Reverse String|Easy  
 345|Reverse Vowels of a String|Easy
