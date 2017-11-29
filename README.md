@@ -111,6 +111,7 @@ No.|Title|Difficulty
 No.|Title|Difficulty  
 ---|-----|----------
 002|Add Two Numbers|Medium
+021|Merge Two Sorted Lists|Easy
 445|Add Two Numbers II|Medium
 ### Tree  
 No.|Title|Difficulty  
