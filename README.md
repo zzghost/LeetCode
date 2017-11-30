@@ -132,6 +132,7 @@ No.|Title|Difficulty
 007|Reverse Integer|Easy  
 009|Palindrome Number|Easy
 070|Climbing Stairs|Easy
+136|Single Number|Easy
 258|Add Digits|Easy  
 ### Binary Search
 No.|Title|Difficulty|Comment  
