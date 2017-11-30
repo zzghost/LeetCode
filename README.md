@@ -114,6 +114,7 @@ No.|Title|Difficulty
 ---|-----|----------
 002|Add Two Numbers|Medium
 021|Merge Two Sorted Lists|Easy
+082|Remove Duplicates from Sorted List II|Medium
 083|Remove Duplicates from Sorted List|Easy
 445|Add Two Numbers II|Medium
 ### Tree  
