@@ -116,6 +116,7 @@ No.|Title|Difficulty
 021|Merge Two Sorted Lists|Easy
 082|Remove Duplicates from Sorted List II|Medium
 083|Remove Duplicates from Sorted List|Easy
+141|Linked List Cycle|Easy
 445|Add Two Numbers II|Medium
 ### Tree  
 No.|Title|Difficulty  
