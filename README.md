@@ -93,6 +93,7 @@ No.|Title|Difficulty
 No.|Title|Difficulty  
 ---|-----|----------  
 013|Roman to Integer|Easy
+020|Valid Parentheses|Easy
 058|Length of Last Word|Easy  
 065|Valid Number|Hard
 067|Add Binary|Easy
