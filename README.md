@@ -119,6 +119,7 @@ No.|Title|Difficulty
 ### Tree  
 No.|Title|Difficulty  
 ---|-----|----------  
+100|Same Tree|Easy
 102|Binary Tree Level Order Traversal|Medium
 103|Binary Tree Zigzag Level Order Traversal|Medium
 112|Path Sum|Easy
