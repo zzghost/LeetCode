@@ -118,6 +118,7 @@ No.|Title|Difficulty
 082|Remove Duplicates from Sorted List II|Medium
 083|Remove Duplicates from Sorted List|Easy
 141|Linked List Cycle|Easy
+142|Linked List Cycle II|Medium
 445|Add Two Numbers II|Medium
 ### Tree  
 No.|Title|Difficulty  
