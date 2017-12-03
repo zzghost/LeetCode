@@ -131,6 +131,7 @@ No.|Title|Difficulty
 111|Minimum Depth of Binary Tree|Easy
 112|Path Sum|Easy
 113|Path Sum II|Medium
+144|Binary Tree Preorder Traversal|Medium
 ### Math
 No.|Title|Difficulty  
 ---|-----|----------  
