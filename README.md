@@ -133,6 +133,7 @@ No.|Title|Difficulty
 111|Minimum Depth of Binary Tree|Easy
 112|Path Sum|Easy
 113|Path Sum II|Medium
+129|Sum Root to Leaf Numbers|Medium
 144|Binary Tree Preorder Traversal|Medium
 145|Binary Tree Postorder Traversal|Hard
 ### Math
