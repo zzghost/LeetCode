@@ -99,6 +99,7 @@ No.|Title|Difficulty
 065|Valid Number|Hard
 067|Add Binary|Easy
 125|Valid Palindrome|Easy  
+242|Valid Anagram|Easy
 344|Reverse String|Easy  
 345|Reverse Vowels of a String|Easy
 383|Ransom Note|Easy
