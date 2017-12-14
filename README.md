@@ -120,6 +120,7 @@ No.|Title|Difficulty
 083|Remove Duplicates from Sorted List|Easy
 141|Linked List Cycle|Easy
 142|Linked List Cycle II|Medium
+237|Delete Node in a Linked List|Easy
 445|Add Two Numbers II|Medium
 ### Tree  
 No.|Title|Difficulty  
