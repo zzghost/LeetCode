@@ -114,6 +114,7 @@ No.|Title|Difficulty
 No.|Title|Difficulty  
 ---|-----|----------
 002|Add Two Numbers|Medium
+019|Remove Nth Node From End of List|Medium
 021|Merge Two Sorted Lists|Easy
 024|Swap Nodes in Pairs|Medium
 082|Remove Duplicates from Sorted List II|Medium
