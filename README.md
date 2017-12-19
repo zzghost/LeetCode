@@ -165,6 +165,7 @@ No.|Title|Difficulty|Comment
 ### Other  
 No.|Title|Difficulty|Comment  
 ---|-----|----------|-------  
+022|Generate Parentheses|Medium|BackTracking
 046|Permutations|Medium|BackTracking
 047|Permutations II|Medium|BackTracking
 371|Sum of Two Integers|Bit Manipulation
