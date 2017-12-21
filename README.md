@@ -121,6 +121,7 @@ No.|Title|Difficulty
 083|Remove Duplicates from Sorted List|Easy
 141|Linked List Cycle|Easy
 142|Linked List Cycle II|Medium
+160|Intersection of Two Linked Lists|Easy
 237|Delete Node in a Linked List|Easy
 445|Add Two Numbers II|Medium
 ### Tree  
@@ -165,6 +166,7 @@ No.|Title|Difficulty|Comment
 ### Other  
 No.|Title|Difficulty|Comment  
 ---|-----|----------|-------  
+017|Letter Combinations of a Phone Number|Medium|BackTracking
 022|Generate Parentheses|Medium|BackTracking
 046|Permutations|Medium|BackTracking
 047|Permutations II|Medium|BackTracking
