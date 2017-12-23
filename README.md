@@ -117,6 +117,7 @@ No.|Title|Difficulty
 019|Remove Nth Node From End of List|Medium
 021|Merge Two Sorted Lists|Easy
 024|Swap Nodes in Pairs|Medium
+061|Rotate List|Medium
 082|Remove Duplicates from Sorted List II|Medium
 083|Remove Duplicates from Sorted List|Easy
 141|Linked List Cycle|Easy
