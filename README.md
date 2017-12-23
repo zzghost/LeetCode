@@ -120,6 +120,7 @@ No.|Title|Difficulty
 061|Rotate List|Medium
 082|Remove Duplicates from Sorted List II|Medium
 083|Remove Duplicates from Sorted List|Easy
+092|Reverse Linked List II|Medium
 141|Linked List Cycle|Easy
 142|Linked List Cycle II|Medium
 160|Intersection of Two Linked Lists|Easy
