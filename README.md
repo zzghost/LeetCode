@@ -98,7 +98,8 @@ No.|Title|Difficulty
 058|Length of Last Word|Easy  
 065|Valid Number|Hard
 067|Add Binary|Easy
-125|Valid Palindrome|Easy  
+125|Valid Palindrome|Easy
+151|Reverse Words in a String|Medium 
 242|Valid Anagram|Easy
 344|Reverse String|Easy  
 345|Reverse Vowels of a String|Easy
