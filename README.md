@@ -178,6 +178,7 @@ No.|Title|Difficulty|Comment
 046|Permutations|Medium|BackTracking
 047|Permutations II|Medium|BackTracking
 175|Combine Two Tables|Easy|SQL
+176|Second Highest Salary|SQL
 182|Duplicate Emails|Easy|SQL
 183|Customers Who Never Order|SQL
 371|Sum of Two Integers|Bit Manipulation
