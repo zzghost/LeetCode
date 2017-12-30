@@ -99,7 +99,7 @@ No.|Title|Difficulty
 065|Valid Number|Hard
 067|Add Binary|Easy
 125|Valid Palindrome|Easy
-151|Reverse Words in a String|Medium 
+151|Reverse Words in a String|Medium
 242|Valid Anagram|Easy
 344|Reverse String|Easy  
 345|Reverse Vowels of a String|Easy
@@ -183,6 +183,7 @@ No.|Title|Difficulty|Comment
 181|Employees Earning More Than Their Managers|Easy|SQL
 182|Duplicate Emails|Easy|SQL
 183|Customers Who Never Order|Easy|SQL
+191|Number of 1 Bits|Easy|Bit Manipulation
 371|Sum of Two Integers|Easy|Bit Manipulation
 526|Beautiful Arrangement|Medium|BackTracking  
 595|Big Countries|Easy|SQL  
