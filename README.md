@@ -183,6 +183,7 @@ No.|Title|Difficulty|Comment
 181|Employees Earning More Than Their Managers|Easy|SQL
 182|Duplicate Emails|Easy|SQL
 183|Customers Who Never Order|Easy|SQL
+190|Reverse Bits|Easy|Bit Manipulation
 191|Number of 1 Bits|Easy|Bit Manipulation
 371|Sum of Two Integers|Easy|Bit Manipulation
 526|Beautiful Arrangement|Medium|BackTracking  
