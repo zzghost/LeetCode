@@ -33,7 +33,7 @@ After calling your function, the tree should look like:
     4->5->6->7 -> NULL
     ```
 ## Solution
-Level Order traversal.  
+1. Level Order traversal.  
 **Complexity: Time O(n), Space O(n).**
 ```java
 /**
@@ -66,6 +66,27 @@ public class Solution {
             }
         }
         return ;
+    }
+}
+```
+2. Two pointers.
+**Complexity: Time O(n), Space O(1).**
+```java
+public class Solution {
+    public void connect(TreeLinkNode root) {
+        if(root == null || root.left == null && root.right == null)
+            return ;
+        TreeLinkNode pre = null, curr = root;
+        while(curr.left != null){
+            pre = curr;
+            //each level
+            while(curr != null){
+                curr.left.next = curr.right;
+                curr.right.next = (curr.next == null) ? null : curr.next.left;
+                curr = curr.next;
+            }
+            curr = pre.left;
+        }
     }
 }
 ```
