@@ -180,6 +180,7 @@ No.|Title|Difficulty|Comment
 022|Generate Parentheses|Medium|BackTracking
 046|Permutations|Medium|BackTracking
 047|Permutations II|Medium|BackTracking
+072|Edit Distance|Hard|Dynamic Programming
 175|Combine Two Tables|Easy|SQL
 176|Second Highest Salary|Easy|SQL
 181|Employees Earning More Than Their Managers|Easy|SQL
