@@ -148,6 +148,8 @@ No.|Title|Difficulty
 112|Path Sum|Easy
 113|Path Sum II|Medium
 114|Flatten Binary Tree to Linked List|Medium
+116|Populating Next Right Pointers in Each Node|Medium
+117|Populating Next Right Pointers in Each Node II|Medium
 129|Sum Root to Leaf Numbers|Medium
 144|Binary Tree Preorder Traversal|Medium
 145|Binary Tree Postorder Traversal|Hard
@@ -179,6 +181,7 @@ No.|Title|Difficulty|Comment
 022|Generate Parentheses|Medium|BackTracking
 046|Permutations|Medium|BackTracking
 047|Permutations II|Medium|BackTracking
+072|Edit Distance|Hard|Dynamic Programming
 175|Combine Two Tables|Easy|SQL
 176|Second Highest Salary|Easy|SQL
 181|Employees Earning More Than Their Managers|Easy|SQL
