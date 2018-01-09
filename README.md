@@ -178,6 +178,7 @@ No.|Title|Difficulty|Comment
 ---|-----|----------|-------  
 017|Letter Combinations of a Phone Number|Medium|BackTracking
 022|Generate Parentheses|Medium|BackTracking
+037|Sudoku Solver|Hard|BackTracking
 046|Permutations|Medium|BackTracking
 047|Permutations II|Medium|BackTracking
 072|Edit Distance|Hard|Dynamic Programming
