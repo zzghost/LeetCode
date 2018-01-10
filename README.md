@@ -153,6 +153,11 @@ No.|Title|Difficulty
 129|Sum Root to Leaf Numbers|Medium
 144|Binary Tree Preorder Traversal|Medium
 145|Binary Tree Postorder Traversal|Hard
+### Dynamic Programming
+No.|Title|Difficulty  
+---|-----|----------
+072|Edit Distance|Hard
+096|Unique Binary Search Trees|Medium
 ### Math
 No.|Title|Difficulty  
 ---|-----|----------  
@@ -182,7 +187,6 @@ No.|Title|Difficulty|Comment
 037|Sudoku Solver|Hard|BackTracking
 046|Permutations|Medium|BackTracking
 047|Permutations II|Medium|BackTracking
-072|Edit Distance|Hard|Dynamic Programming
 175|Combine Two Tables|Easy|SQL
 176|Second Highest Salary|Easy|SQL
 181|Employees Earning More Than Their Managers|Easy|SQL
