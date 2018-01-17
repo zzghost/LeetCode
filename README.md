@@ -135,6 +135,7 @@ No.|Title|Difficulty
 No.|Title|Difficulty  
 ---|-----|----------  
 094|Binary Tree Inorder Traversal|Medium
+098|Validate Binary Search Tree|Medium
 100|Same Tree|Easy
 101|Symmetric Tree|Easy
 102|Binary Tree Level Order Traversal|Medium
