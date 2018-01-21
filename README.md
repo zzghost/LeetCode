@@ -154,6 +154,7 @@ No.|Title|Difficulty
 129|Sum Root to Leaf Numbers|Medium
 144|Binary Tree Preorder Traversal|Medium
 145|Binary Tree Postorder Traversal|Hard
+226|Invert Binary Tree|Easy
 ### Dynamic Programming
 No.|Title|Difficulty  
 ---|-----|----------
