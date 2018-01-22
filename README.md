@@ -101,6 +101,7 @@ No.|Title|Difficulty
 067|Add Binary|Easy
 125|Valid Palindrome|Easy
 151|Reverse Words in a String|Medium
+205|Isomorphic Strings|Easy
 242|Valid Anagram|Easy
 344|Reverse String|Easy  
 345|Reverse Vowels of a String|Easy
