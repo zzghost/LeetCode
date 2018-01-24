@@ -156,6 +156,7 @@ No.|Title|Difficulty
 144|Binary Tree Preorder Traversal|Medium
 145|Binary Tree Postorder Traversal|Hard
 226|Invert Binary Tree|Easy
+230|Kth Smallest Element in a BST｜Medium
 ### Dynamic Programming
 No.|Title|Difficulty  
 ---|-----|----------
