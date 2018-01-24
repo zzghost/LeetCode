@@ -168,7 +168,9 @@ No.|Title|Difficulty
 009|Palindrome Number|Easy
 070|Climbing Stairs|Easy
 136|Single Number|Easy
+202|Happy Number|Easy
 204|Count Primes|Easy
+231|Power of Two|Easy
 258|Add Digits|Easy  
 ### Binary Search
 No.|Title|Difficulty|Comment  
