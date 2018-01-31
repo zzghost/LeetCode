@@ -157,6 +157,7 @@ No.|Title|Difficulty
 No.|Title|Difficulty  
 ---|-----|----------
 072|Edit Distance|Hard
+095|Unique Binary Search Trees II|Medium
 096|Unique Binary Search Trees|Medium
 ### Math
 No.|Title|Difficulty  
