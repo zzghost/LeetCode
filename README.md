@@ -101,6 +101,7 @@ No.|Title|Difficulty
 067|Add Binary|Easy
 125|Valid Palindrome|Easy
 151|Reverse Words in a String|Medium
+205|Isomorphic Strings|Easy
 242|Valid Anagram|Easy
 344|Reverse String|Easy  
 345|Reverse Vowels of a String|Easy
@@ -135,6 +136,7 @@ No.|Title|Difficulty
 No.|Title|Difficulty  
 ---|-----|----------  
 094|Binary Tree Inorder Traversal|Medium
+098|Validate Binary Search Tree|Medium
 100|Same Tree|Easy
 101|Symmetric Tree|Easy
 102|Binary Tree Level Order Traversal|Medium
@@ -153,6 +155,8 @@ No.|Title|Difficulty
 129|Sum Root to Leaf Numbers|Medium
 144|Binary Tree Preorder Traversal|Medium
 145|Binary Tree Postorder Traversal|Hard
+226|Invert Binary Tree|Easy
+230|Kth Smallest Element in a BST｜Medium
 ### Dynamic Programming
 No.|Title|Difficulty  
 ---|-----|----------
@@ -166,6 +170,9 @@ No.|Title|Difficulty
 009|Palindrome Number|Easy
 070|Climbing Stairs|Easy
 136|Single Number|Easy
+202|Happy Number|Easy
+204|Count Primes|Easy
+231|Power of Two|Easy
 258|Add Digits|Easy  
 ### Binary Search
 No.|Title|Difficulty|Comment  
@@ -188,6 +195,7 @@ No.|Title|Difficulty|Comment
 037|Sudoku Solver|Hard|BackTracking
 046|Permutations|Medium|BackTracking
 047|Permutations II|Medium|BackTracking
+077|Combinations|BackTracking
 175|Combine Two Tables|Easy|SQL
 176|Second Highest Salary|Easy|SQL
 181|Employees Earning More Than Their Managers|Easy|SQL
