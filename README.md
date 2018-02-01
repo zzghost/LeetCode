@@ -195,6 +195,7 @@ No.|Title|Difficulty|Comment
 037|Sudoku Solver|Hard|BackTracking
 046|Permutations|Medium|BackTracking
 047|Permutations II|Medium|BackTracking
+051|N-Queens|Hard|BackTracking  
 077|Combinations|BackTracking
 175|Combine Two Tables|Easy|SQL
 176|Second Highest Salary|Easy|SQL
