@@ -196,6 +196,7 @@ No.|Title|Difficulty|Comment
 046|Permutations|Medium|BackTracking
 047|Permutations II|Medium|BackTracking
 051|N-Queens|Hard|BackTracking  
+052|N-Queens II|Hard|BackTracking
 077|Combinations|BackTracking
 175|Combine Two Tables|Easy|SQL
 176|Second Highest Salary|Easy|SQL
