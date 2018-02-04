@@ -93,6 +93,7 @@ No.|Title|Difficulty
 No.|Title|Difficulty  
 ---|-----|----------  
 003|Longest Substring Without Repeating Characters|Medium
+006|ZigZag Conversion|Medium
 013|Roman to Integer|Easy
 020|Valid Parentheses|Easy
 038|Count and Say|Easy
