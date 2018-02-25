@@ -7,23 +7,24 @@ Return the starting gas station's index if you can travel around the circuit onc
 
 Note:
 The solution is guaranteed to be unique.
-## Solution
+## [Solution](http://blog.csdn.net/kenden23/article/details/14106137)
 Greedy.  
-`sum` records the total consumption.`tank` records the remain gas this time.if `tank < 0`,we can't walk from `i` to `i+1`. 
 ```java
 class Solution {
     public int canCompleteCircuit(int[] gas, int[] cost) {
         int n = gas.length;
-        int tank = 0, idx = 0, sum = 0;
+        int tank = 0, total = 0, idx = 0;
         for(int i = 0; i < n; i++){
-            tank += (gas[i] - cost[i]);
+            tank += gas[i] - cost[i];
+            total += gas[i] - cost[i];
             if(tank < 0){
                 idx = i + 1;
-                sum += tank;
                 tank = 0;
             }
         }
-        return (tank + sum) < 0 ? -1 : idx;
+        if(total < 0) return -1;
+        else
+            return idx;
     }
 }
 ```
