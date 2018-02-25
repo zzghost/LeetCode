@@ -9,8 +9,7 @@ Note:
 The solution is guaranteed to be unique.
 ## Solution
 Greedy.  
-`sum` records the total gas.`tank` records the gas in the tank.  
-Each time when `tank < 0`, we hope that the next station will meet the condition.So `tank = 0` and `idx = i + 1`.
+`sum` records the total consumption.`tank` records the remain gas this time.if `tank < 0`,we can't walk from `i` to `i+1`. 
 ```java
 class Solution {
     public int canCompleteCircuit(int[] gas, int[] cost) {
