@@ -160,6 +160,10 @@ No.|Title|Difficulty
 145|Binary Tree Postorder Traversal|Hard
 226|Invert Binary Tree|Easy
 230|Kth Smallest Element in a BST｜Medium
+### Greedy
+No.|Title|Difficulty  
+---|-----|----------
+134|Gas Station|Medium
 ### Dynamic Programming
 No.|Title|Difficulty  
 ---|-----|----------
