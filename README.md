@@ -92,6 +92,7 @@ No.|Title|Difficulty
 058|Length of Last Word|Easy  
 065|Valid Number|Hard
 067|Add Binary|Easy
+071|Simplify Path|Medium
 125|Valid Palindrome|Easy
 151|Reverse Words in a String|Medium
 205|Isomorphic Strings|Easy
