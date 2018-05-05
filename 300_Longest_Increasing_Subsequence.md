@@ -33,6 +33,9 @@ class Solution {
 
 2. Use stack  
 1)Not-optimal  
+The stack stores the numbers in LIS.  
+If nums[i] is larger than top element of the stack, push nums[i] into the stack;  
+else, find the first position where nums[i] can replace the nums[j].  
 **Complexity: Time O(n^2), Space O(n).**  
 ```java
 class Solution {

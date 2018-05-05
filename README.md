@@ -208,6 +208,7 @@ No.|Title|Difficulty
 095|Unique Binary Search Trees II|Medium
 096|Unique Binary Search Trees|Medium
 120|Triangle|Medium
+174|Dungeon Game|Hard
 198|House Robber|Easy
 213|House Robber II|Medium
 300|Longest Increasing Subsequence|Medium
