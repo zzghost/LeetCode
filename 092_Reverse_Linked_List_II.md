@@ -22,8 +22,10 @@ Given m, n satisfy the following condition:
  */
 class Solution {
     public ListNode reverseBetween(ListNode head, int m, int n) {
+      //p is the mth node, q is the nth node
         ListNode p = head, q = head, k = head, pre = null;
         int count1 = 1, count2 = 1;
+        //find the mth node and the nth node
         while(count2 < n){
             if(count1 < m){
                 pre = p;
@@ -33,11 +35,15 @@ class Solution {
             q = q.next;
             count2++;
         }
-        if(pre != null)
+        //point pre mth node to the new head
+        if(pre != null){
             pre.next = q;
-        else
-        //m = 1
+        }
+        else{
+          //m = 1
             head = q;
+        }zZ
+        //reverse the mth to nth nodes
         while(p != q){
             ListNode tmp = p.next;
             p.next = q.next;

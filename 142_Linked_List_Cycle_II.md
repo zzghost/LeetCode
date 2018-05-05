@@ -25,34 +25,32 @@ Two pointers: fast and slow.
  */
 public class Solution {
     public ListNode detectCycle(ListNode head) {
-        if(head == null || head.next == null) return null;
-        ListNode p1 = head, p2 = head.next;
-        while(p2 != null){
-            if(p1 == p2){
+        ListNode slow = head, fast = head;
+        ListNode meet = null;
+        while(fast != null){
+            slow = slow.next;
+            fast = fast.next;
+            if(fast == null){
+                return null;
+            }
+            fast = fast.next;
+            if(slow == fast){
+                meet = fast;
                 break;
             }
-            p1 = p1.next;
-            p2 = (p2.next == null) ? p2.next : p2.next.next;
         }
-
-        if(p2 != null){
-            int count = 1;
-            p1 = p1.next;
-            while(p1 != p2){
-                p1 = p1.next;
-                count++;
-            }
-            p1 = head; p2 = head;
-            for(int i = 0; i < count; i++)
-                p2 = p2.next;
-            while(p1 != p2){
-                p1 = p1.next;
-                p2 = p2.next;
-            }
-            return p2;
-        }
-        else
+        if(meet == null){
             return null;
+        }
+        while(head != null && meet != null){
+          //when head meets `meet`, it's the entrance node
+            if(head == meet){
+                return head;
+            }
+            head = head.next;
+            meet = meet.next;
+        }
+        return null;
     }
 }
 ```

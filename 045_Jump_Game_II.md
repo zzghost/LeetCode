@@ -1,4 +1,4 @@
-# Jump Game II
+ # Jump Game II
 ## Description
 Given an array of non-negative integers, you are initially positioned at the first index of the array.
 
@@ -50,6 +50,7 @@ class Solution{
     int jumps = 0, curEnd = 0, curFarthest = 0;
     for(int i = 0; i < n; i++){
       curFarthest = Math.max(curFarthest, i + nums[i]);
+      //when i reach the curFarthest position
       if(i == curEnd){
         jumps++;
         curEnd = curFarthest;

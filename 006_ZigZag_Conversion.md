@@ -14,18 +14,22 @@ string convert(string text, int nRows);
 ## Solution
 Math.  
 Count each position's index.   
+Each line's loop is `2 * numRows - 2`,
 ```java
 class Solution {
     public String convert(String s, int numRows) {
         if(s == null || s.length() <= numRows) return s;
+        //c is the loop, gap is the zigzag's gap, row counts each line.
         int c = 2 * numRows - 2, row = 0, gap = 0, n = s.length();
         if(c <= 0) return s;
         StringBuilder sb = new StringBuilder();
         while(row < numRows){
             int pos = row;
             while(pos - gap < n || pos < n){
+              //record the zigzag's num,gap=0 is the first line, gap=c is the last line
                 if(gap != 0 && pos > gap && gap < c)
                     sb.append(s.charAt(pos - gap));
+              //record the line's  num
                 if(pos < n)
                     sb.append(s.charAt(pos));
                 pos += c;

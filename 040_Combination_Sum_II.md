@@ -27,29 +27,28 @@ Take (1, 1, 6), target = 8 as an example. When it met first 1, it will add first
 **Complexity: Time O(2^n).**
 ```java
 class Solution {
-    List<List<Integer>> list = new ArrayList<>();
+    List<List<Integer>> rst = new ArrayList<>();
     List<Integer> aList = new ArrayList<>();
     public void find(int[] candidates, int target, int idx){
-        if(target == 0){
-            list.add(new ArrayList<Integer>(aList));
-            return ;
-        }
-        if(target < 0 || idx >= candidates.length)
-            return ;
-        else{
+        if(target > 0){
             for(int i = idx; i < candidates.length; i++){
-              //skip the duplicate.
-                if(i > idx && candidates[i] == candidates[i - 1]) continue;
+              //skip the duplicates
+                if(i > idx && candidates[i] == candidates[i - 1]){
+                    continue;
+                }
                 aList.add(candidates[i]);
                 find(candidates, target - candidates[i], i + 1);
                 aList.remove(aList.size() - 1);
             }
         }
+        else if(target == 0){
+            rst.add(new ArrayList<>(aList));
+        }
     }
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
         Arrays.sort(candidates);
         find(candidates, target, 0);
-        return list;
+        return rst;
     }
 }
 ```

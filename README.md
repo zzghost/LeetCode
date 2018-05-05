@@ -10,30 +10,22 @@ No.|Title|Difficulty
 026|Remove Duplicates from Sorted Array|Easy  
 027|Remove Element|Easy  
 031|Next Permutation|Medium
-033|Search in Rotated Sorted Array|Medium  
-034|Search for a Range|Medium  
-035|Search Insert Position|Easy  
 036|Valid Sudoku|Medium
 039|Combination Sum|Medium  
 040|Combination Sum II|Medium
 041|First Missing Positive|Hard
 042|Trapping Rain Water|Hard
-045|Jump Game II|Hard
-048|Rotate Image|Medium  
-053|Maximum Subarray|Easy  
+048|Rotate Image|Medium   
 054|Spiral Matrix|Medium
-055|Jump Game|Medium
 056|Merge Intervals|Medium  
 057|Insert Interval|Hard
 059|Spiral Matrix II|Medium  
 062|Unique Paths|Easy  
-063|Unique Paths II|Medium  
-064|Minimum Path Sum|Medium  
+063|Unique Paths II|Medium   
 066|Plus One|Easy  
 073|Set Matrix Zeroes|Medium  
 074|Search a 2D Matrix|Medium  
 075|Sort Colors|Medium
-078|Subsets|Medium  
 079|Word Search|Medium  
 080|Remove Duplicates from Sorted Array II|Medium  
 081|Search in Rotated Sorted Array II|Medium
@@ -44,8 +36,7 @@ No.|Title|Difficulty
 105|Construct Binary Tree from Preorder and Inorder Traversal|Medium  
 106|Construct Binary Tree from Inorder and Postorder Traversal|Medium  
 118|Pascal's Triangle|Easy  
-119|Pascal's Triangle II|Easy  
-120|Triangle|Medium  
+119|Pascal's Triangle II|Easy   
 121|Best Time to Buy and Sell Stock|Easy  
 122|Best Time to Buy and Sell Stock II|Easy
 123|Best Time to Buy and Sell Stock III|Hard  
@@ -109,6 +100,7 @@ No.|Title|Difficulty
 345|Reverse Vowels of a String|Easy
 383|Ransom Note|Easy
 415|Add Strings|Easy
+438|Find All Anagrams in a String|Easy
 520|Detect Capital|Easy  
 541|Reverse String II|Easy  
 551|Student Attendance Record I|Easy  
@@ -128,6 +120,7 @@ No.|Title|Difficulty
 083|Remove Duplicates from Sorted List|Easy
 086|Partition List|Medium
 092|Reverse Linked List II|Medium
+138|Copy List with Random Pointer|Medium
 141|Linked List Cycle|Easy
 142|Linked List Cycle II|Medium
 160|Intersection of Two Linked Lists|Easy
@@ -135,6 +128,14 @@ No.|Title|Difficulty
 206|Reverse Linked List|Easy
 237|Delete Node in a Linked List|Easy
 445|Add Two Numbers II|Medium
+### Stack,Queue,Heap
+No.|Title|Difficulty  
+---|-----|----------  
+155|Min Stack|Easy
+215|Kth Largest Element in an Array|Medium
+225|Implement Stack using Queues|Easy
+232|Implement Queue using Stacks|Easy
+295|Find Median from Data Stream|Hard
 ### Tree  
 No.|Title|Difficulty  
 ---|-----|----------  
@@ -158,26 +159,73 @@ No.|Title|Difficulty
 129|Sum Root to Leaf Numbers|Medium
 144|Binary Tree Preorder Traversal|Medium
 145|Binary Tree Postorder Traversal|Hard
+199|Binary Tree Right Side View|Medium
 226|Invert Binary Tree|Easy
 230|Kth Smallest Element in a BST｜Medium
+236|Lowest Common Ancestor of a Binary Tree|Medium
+257|Binary Tree Paths|Easy
+404|Sum of Left Leaves|Easy
+437|Path Sum III|Easy
+547|Friend Circles|Medium
+687|Longest Univalue Path|Easy
+### Graph
+No.|Title|Difficulty  
+---|-----|----------
+207|Course Schedule|Medium
+
 ### Greedy
 No.|Title|Difficulty  
 ---|-----|----------
+045|Jump Game II|Hard
+055|Jump Game|Medium
 134|Gas Station|Medium
+376|Wiggle Subsequence|Medium
+402|Remove K Digits|Medium
+452|Minimum Number of Arrows to Burst Balloons|Medium
+455|Assign Cookies|Easy
+### BackTracking
+No.|Title|Difficulty  
+---|-----|----------
+017|Letter Combinations of a Phone Number|Medium
+022|Generate Parentheses|Medium
+037|Sudoku Solver|Hard
+046|Permutations|Medium
+047|Permutations II|Medium
+051|N-Queens|Hard
+052|N-Queens II|Hard
+077|Combinations|Medium
+078|Subsets|Medium
+473|Matchsticks to Square|Medium
+526|Beautiful Arrangement|Medium
+695|Max Area of Island|Easy
 ### Dynamic Programming
 No.|Title|Difficulty  
 ---|-----|----------
+053|Maximum Subarray|Easy
+064|Minimum Path Sum|Medium
+070|Climbing Stairs|Easy
 072|Edit Distance|Hard
 095|Unique Binary Search Trees II|Medium
 096|Unique Binary Search Trees|Medium
+120|Triangle|Medium
+198|House Robber|Easy
+213|House Robber II|Medium
+300|Longest Increasing Subsequence|Medium
+322|Coin Change|Medium
+### Divide and Conquer
+No.|Title|Difficulty
+---|-----|----------
+315|Count of Smaller Numbers After Self|Hard
 ### Math
 No.|Title|Difficulty  
 ---|-----|----------  
 007|Reverse Integer|Easy  
-009|Palindrome Number|Easy
+009|Palindrome Number|Easy.198. House Robber
 012|Integer to Roman|Medium
-070|Climbing Stairs|Easy
 136|Single Number|Easy
+168|Excel Sheet Column Title|Easy
+171|Excel Sheet Column Number|Easy
+172|Factorial Trailing Zeroes|Easy
 202|Happy Number|Easy
 204|Count Primes|Easy
 231|Power of Two|Easy
@@ -185,6 +233,9 @@ No.|Title|Difficulty
 ### Binary Search
 No.|Title|Difficulty|Comment  
 ---|-----|----------|-------  
+033|Search in Rotated Sorted Array|Medium  
+034|Search for a Range|Medium  
+035|Search Insert Position|Easy  
 050|Pow(x,n)|Medium|Divide and Conquer  
 069|Sqrt(x)|Easy  
 162|Find Peak Element|Medium  
@@ -198,14 +249,6 @@ No.|Title|Difficulty|Comment
 ### Other  
 No.|Title|Difficulty|Comment  
 ---|-----|----------|-------  
-017|Letter Combinations of a Phone Number|Medium|BackTracking
-022|Generate Parentheses|Medium|BackTracking
-037|Sudoku Solver|Hard|BackTracking
-046|Permutations|Medium|BackTracking
-047|Permutations II|Medium|BackTracking
-051|N-Queens|Hard|BackTracking  
-052|N-Queens II|Hard|BackTracking
-077|Combinations|BackTracking
 175|Combine Two Tables|Easy|SQL
 176|Second Highest Salary|Easy|SQL
 181|Employees Earning More Than Their Managers|Easy|SQL
@@ -213,7 +256,9 @@ No.|Title|Difficulty|Comment
 183|Customers Who Never Order|Easy|SQL
 190|Reverse Bits|Easy|Bit Manipulation
 191|Number of 1 Bits|Easy|Bit Manipulation
+193|Valid Phone Numbers|Easy|Bash
+195|Tenth Line|Easy|Bash
+196|Delete Duplicate Emails|Easy|SQL
+197|Rising Temperature|Easy|SQL
 371|Sum of Two Integers|Easy|Bit Manipulation
-526|Beautiful Arrangement|Medium|BackTracking  
 595|Big Countries|Easy|SQL  
-695|Max Area of Island|Easy|BackTracking  

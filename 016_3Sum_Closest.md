@@ -16,6 +16,7 @@ class Solution {
         int n = nums.length;
         long res = Integer.MAX_VALUE;
         for(int i = 0; i + 2 < n; i++){
+          //skip the duplicates
             if(i > 0 && nums[i] == nums[i - 1])
                 continue ;
             int j = i + 1, k = n - 1;

@@ -12,6 +12,10 @@ Here are some examples. Inputs are in the left-hand column and its corresponding
 `1,1,5` → `1,5,1`  
 
 ## Solution
+1) find the first element x from the end that breaks the descending order.  
+2) find the first element y which is larger than x.  
+3) swap x and y.  
+4) reverse the subarray from i + 1 to the end.  
 **Complexity: Time O(n), Space O(1).**
 ```java
 class Solution {

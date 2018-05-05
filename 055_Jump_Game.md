@@ -45,3 +45,30 @@ class Solution {
     }
 }
 ```
+Another solution:  
+We can find that each jump, we want to go to the furthest position.  
+At position `i`, we can reach `index[i] = i + nums[i]`.So, in `[i..index[i]]`, there can be a `j`, which jumps `j + nums[j] > index[i]`.And we should pick it.  
+**Greedy**
+```java
+class Solution {
+    public boolean canJump(int[] nums) {
+        int n = nums.length;
+        int[] index = new int[n];
+        for(int i = 0; i < n; i++){
+            index[i] = nums[i] + i;
+        }
+        int jump = 0, maxIndex = index[0];
+        while(jump < n && jump <= maxIndex){
+            if(maxIndex < index[jump]){
+                maxIndex = index[jump];
+            }
+            jump++;
+        }
+        //reach the end
+        if(jump == n){
+            return true;
+        }
+        return false;   
+    }
+}
+```

@@ -7,6 +7,7 @@ For example,
 Given `1->4->3->2->5->2` and x = 3,
 return `1->2->2->4->3->5`.
 ## Solution
+Use two temp ListNode head.One stores smaller than x nodes, another stores larger than and equals with x.  
 **Complexity: Time O(n), Space O(1).**
 ```java
 /**
@@ -19,36 +20,23 @@ return `1->2->2->4->3->5`.
  */
 class Solution {
     public ListNode partition(ListNode head, int x) {
-        ListNode p = null, q = head, pre = null;
-        //skip the smaller one
-        while(q != null && q.val < x){
-            p = q;
-            pre = q;
-            q = q.next;
-        }
-        while(q != null){
-            if(q.val >= x){
-                pre = q;
-                q = q.next;
+        ListNode smallerHead = new ListNode(0), largeHead = new ListNode(0);
+        ListNode lessP = smallerHead, largeP = largeHead;
+        while(head != null){
+            if(head.val < x){
+                lessP.next = head;
+                lessP = head;
             }
             else{
-                ListNode tmp = q.next;
-                if(p == null){
-                    q.next = head;
-                    head = q;
-                }
-                else{
-                    q.next = p.next;
-                    p.next = q;
-                }
-                p = q;
-                pre.next = tmp;
-                q = tmp;
+                largeP.next = head;
+                largeP = head;
             }
+            head = head.next;
         }
+        lessP.next = largeHead.next;
+        largeP.next = null;
+        return smallerHead.next;
 
-
-        return head;
     }
 }
 ```

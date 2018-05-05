@@ -41,7 +41,9 @@ class Solution {
 class Solution {
     public ListNode reverse(ListNode head, ListNode newHead){
         if(head == null) return newHead;
+        //backup the next node
         ListNode next = head.next;
+        //re-point the new head
         head.next = newHead;
         return reverse(next, head);
     }

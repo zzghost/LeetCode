@@ -37,35 +37,53 @@ public int[] searchRange(int[] nums, int target) {
 }
 ```
 2. Two Binary Search.
+Use binary search to find left bound and right bound respectively.  
 **Complexity: Time O(logn), Space O(1).**
 ```java
-public int[] searchRange(int[] nums, int target) {
-    int[] rst = {-1, -1};
-    if(nums == null || nums.length == 0)
-        return rst;
-
-    int low = 0, high = nums.length - 1;
-    while(low < high){
-        int mid = (high - low) / 2 + low;
-        if(nums[mid] < target)
-            low = mid + 1;
-        else
-            high = mid;
+class Solution {
+    public int leftBound(int[] nums, int target){
+        int low = 0, high = nums.length - 1;
+        while(low <= high){
+            int mid = (high - low) / 2 + low;
+            if(nums[mid] == target){
+                if(mid == 0 || nums[mid - 1] < target){
+                    return mid;
+                }
+                high = mid - 1;
+            }
+            else if(nums[mid] > target){
+                high = mid - 1;
+            }
+            else{
+                low = mid + 1;
+            }
+        }
+        return -1;
     }
-    if(nums[low] != target)
-        return rst;
-    else
-        rst[0] = low;
-
-    high = nums.length - 1;
-    while(low < high){
-        int mid = (high - low) / 2 + low + 1;
-        if(nums[mid] > target)
-            high = mid - 1;
-        else
-            low = mid;
+    public int rightBound(int[] nums, int target){
+        int low = 0, high = nums.length - 1;
+        while(low <= high){
+            int mid = (high - low) / 2 + low;
+            if(nums[mid] == target){
+                if(mid == nums.length - 1 || nums[mid + 1] > target){
+                    return mid;
+                }
+                low = mid + 1;
+            }
+            else if(nums[mid] > target){
+                high = mid - 1;
+            }
+            else{
+                low = mid + 1;
+            }
+        }
+        return -1;
     }
-    rst[1] = high;
-    return rst;
+    public int[] searchRange(int[] nums, int target) {   
+        int[] rst = new int[2];
+        rst[0] = leftBound(nums, target);
+        rst[1] = rightBound(nums, target);
+        return rst;
+    }
 }
 ```

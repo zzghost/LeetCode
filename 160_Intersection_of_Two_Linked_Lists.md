@@ -20,7 +20,9 @@ begin to intersect at node c1.
 + Your code should preferably run in O(n) time and use only O(1) memory.
 
 ## Solution
-Two pointers.  
+1)Count each linked list's length.  
+2)Move the differ nodes.  
+3)Two pointers move together.  
 **Complexity :Time O(n), Space O(1).**
 ```java
 /**
@@ -35,37 +37,35 @@ Two pointers.
  * }
  */
 public class Solution {
+    public int getLength(ListNode head){
+        int length = 0;
+        while(head != null){
+            length++;
+            head = head.next;
+        }
+        return length;
+    }
+    public ListNode moveForward(ListNode head, int count){
+        while(count != 0 && head != null){
+            count--;
+            head = head.next;
+        }
+        return head;
+    }
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        ListNode p = headA, q = headB;
-        int m = 0, n = 0;
-        while(p != null){
-            p = p.next;
-            m++;
-        }
-        while(q != null){
-            q = q.next;
-            n++;
-        }
-        int diff = Math.abs(m - n);
-        p = headA; q = headB;
-        if(m > n){
-            while(diff > 0){
-                p = p.next;
-                diff--;
-            }
+        int aLength = getLength(headA), bLength = getLength(headB);
+        if(aLength > bLength){
+            headA = moveForward(headA, aLength - bLength);
         }
         else{
-            while(diff > 0){
-                q = q.next;
-                diff--;
-            }
+            headB = moveForward(headB, bLength - aLength);
         }
-        while(p != null){
-            if(p.val == q.val){
-                return q;
+        while(headA != null && headB != null){
+            if(headA == headB){
+                return headA;
             }
-            p = p.next;
-            q = q.next;
+            headA = headA.next;
+            headB = headB.next;
         }
         return null;
     }
