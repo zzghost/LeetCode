@@ -116,6 +116,7 @@ No.|Title|Difficulty
 021|Merge Two Sorted Lists|Easy
 023|Merge k Sorted Lists|Hard
 024|Swap Nodes in Pairs|Medium
+025|Reverse Nodes in k-Group|Hard
 061|Rotate List|Medium
 082|Remove Duplicates from Sorted List II|Medium
 083|Remove Duplicates from Sorted List|Easy
@@ -253,6 +254,7 @@ No.|Title|Difficulty|Comment
 ---|-----|----------|-------  
 175|Combine Two Tables|Easy|SQL
 176|Second Highest Salary|Easy|SQL
+177|Nth Highest Salary|Easy|SQL
 181|Employees Earning More Than Their Managers|Easy|SQL
 182|Duplicate Emails|Easy|SQL
 183|Customers Who Never Order|Easy|SQL
