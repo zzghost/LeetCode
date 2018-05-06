@@ -168,6 +168,8 @@ No.|Title|Difficulty
 257|Binary Tree Paths|Easy
 404|Sum of Left Leaves|Easy
 437|Path Sum III|Easy
+450|Delete Node in a BST|Medium
+538|Convert BST to Greater Tree|Easy
 547|Friend Circles|Medium
 687|Longest Univalue Path|Easy
 ### Graph
