@@ -72,3 +72,59 @@ class Solution {
     }
 }
 ```
+2. Binary Search Tree  
+Take `[5, 2, 6, 1]` as an example.  
+Consider the reverse order: `[1, 6, 2, 5]`:  
+`1` has 0 smaller elements beforehand.  
+`6` has 1 smaller elements.  
+`2` has 1 while `5` has 2 elements.  
+Thus, we create a binary search tree and insert each node by reverse order.  
+The BST node has a `count` varible which counts the nodes of left subtree and a `val` varible stores the index in `nums` array.  
+```java
+class Solution {
+    class TreeNode{
+        int val;
+        //the nodes of left subtree
+        int count = 0;
+        TreeNode left = null;
+        TreeNode right = null;
+        public TreeNode(int val){
+            this.val = val;
+        }
+    }
+    public void insert(TreeNode root, int value, int idx, int[] count, int[] nums){
+        if(nums[root.val] < value){
+            count[idx] += root.count + 1;
+            if(root.right == null){
+                root.right = new TreeNode(idx);
+            }
+            else{
+                insert(root.right, value, idx, count, nums);
+            }
+        }
+        else{
+            root.count++;
+            if(root.left == null){
+                root.left = new TreeNode(idx);
+            }
+            else{
+                insert(root.left, value, idx, count, nums);
+            }
+        }
+    }
+    public List<Integer> countSmaller(int[] nums) {
+        int n = nums.length;
+        int[] count = new int[n];
+        TreeNode root = new TreeNode(n - 1);
+        //insert into the BST
+        for(int i = n - 2; i >= 0; i--){
+            insert(root, nums[i], i, count, nums);
+        }
+        List<Integer> rst = new ArrayList<>();
+        for(int c : count){
+            rst.add(c);
+        }
+        return rst;
+    }
+}
+```
