@@ -162,6 +162,8 @@ No.|Title|Difficulty
 144|Binary Tree Preorder Traversal|Medium
 145|Binary Tree Postorder Traversal|Hard
 199|Binary Tree Right Side View|Medium
+208|Implement Trie (Prefix Tree)|Medium
+211|Add and Search Word - Data structure design|Medium
 226|Invert Binary Tree|Easy
 230|Kth Smallest Element in a BST｜Medium
 236|Lowest Common Ancestor of a Binary Tree|Medium
@@ -264,6 +266,7 @@ No.|Title|Difficulty|Comment
 190|Reverse Bits|Easy|Bit Manipulation
 191|Number of 1 Bits|Easy|Bit Manipulation
 193|Valid Phone Numbers|Easy|Bash
+194|Transpose File|Medium|Bash
 195|Tenth Line|Easy|Bash
 196|Delete Duplicate Emails|Easy|SQL
 197|Rising Temperature|Easy|SQL

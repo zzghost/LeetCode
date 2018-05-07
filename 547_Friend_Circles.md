@@ -30,7 +30,7 @@ so the 0th and 2nd students are indirect friends. All of them are in the same fr
 3. If M[i][j] = 1, then M[j][i] = 1.
 
 ## Solution
-Union Find.  
+1. Union Find.  
 **Complexity: O(n^2), O(n).**  
 ```java
 class Solution {
@@ -40,6 +40,7 @@ class Solution {
         while(pre[root] != root){
             root = pre[root];
         }
+        //path compression
         int i = x, j;
         while(i != root){
             j = pre[i];
@@ -73,6 +74,33 @@ class Solution {
         }
 
         return group;
+    }
+}
+```
+2. DFS
+```java
+class Solution {
+    public void dfs(int[][] M, int[] visit, int idx){
+        if(idx < M.length){
+            visit[idx] = 1;
+            for(int i = 0; i < M.length; i++){
+                if(visit[i] == 0 && M[idx][i] == 1){
+                    dfs(M, visit, i);
+                }
+            }
+        }
+    }
+    public int findCircleNum(int[][] M) {
+        int n = M.length;
+        int[] visit = new int[n];
+        int rst = 0;
+        for(int i = 0; i < n; i++){
+            if(visit[i] == 0){
+                dfs(M, visit, i);
+                rst++;
+            }
+        }
+        return rst;
     }
 }
 ```
