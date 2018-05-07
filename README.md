@@ -95,6 +95,7 @@ No.|Title|Difficulty
 071|Simplify Path|Medium
 125|Valid Palindrome|Easy
 151|Reverse Words in a String|Medium
+165|Compare Version Numbers|Medium
 205|Isomorphic Strings|Easy
 242|Valid Anagram|Easy
 344|Reverse String|Easy  
