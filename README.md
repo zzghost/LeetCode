@@ -96,6 +96,8 @@ No.|Title|Difficulty
 125|Valid Palindrome|Easy
 151|Reverse Words in a String|Medium
 165|Compare Version Numbers|Medium
+179|Largest Number|Medium
+187|Repeated DNA Sequences|Medium
 205|Isomorphic Strings|Easy
 242|Valid Anagram|Easy
 344|Reverse String|Easy  
@@ -126,14 +128,17 @@ No.|Title|Difficulty
 138|Copy List with Random Pointer|Medium
 141|Linked List Cycle|Easy
 142|Linked List Cycle II|Medium
+143|Reorder List|Medium
 160|Intersection of Two Linked Lists|Easy
 203|Remove Linked List Elements|Easy
 206|Reverse Linked List|Easy
+234|Palindrome Linked List|Easy
 237|Delete Node in a Linked List|Easy
 445|Add Two Numbers II|Medium
 ### Stack,Queue,Heap
 No.|Title|Difficulty  
 ---|-----|----------  
+150|Evaluate Reverse Polish Notation|Medium
 155|Min Stack|Easy
 215|Kth Largest Element in an Array|Medium
 225|Implement Stack using Queues|Easy
@@ -167,8 +172,10 @@ No.|Title|Difficulty
 211|Add and Search Word - Data structure design|Medium
 226|Invert Binary Tree|Easy
 230|Kth Smallest Element in a BST｜Medium
+235|Lowest Common Ancestor of a Binary Search Tree|Easy
 236|Lowest Common Ancestor of a Binary Tree|Medium
 257|Binary Tree Paths|Easy
+307|Range Sum Query - Mutable|Medium
 404|Sum of Left Leaves|Easy
 437|Path Sum III|Easy
 449|Serialize and Deserialize BST|Medium
@@ -179,8 +186,11 @@ No.|Title|Difficulty
 ### Graph
 No.|Title|Difficulty  
 ---|-----|----------
+127|Word Ladder|Medium
+130|Surrounded Regions|Medium
+200|Number of Islands|Medium
 207|Course Schedule|Medium
-
+210|Course Schedule II|Medium
 ### Greedy
 No.|Title|Difficulty  
 ---|-----|----------
@@ -203,6 +213,7 @@ No.|Title|Difficulty
 052|N-Queens II|Hard
 077|Combinations|Medium
 078|Subsets|Medium
+093|Restore IP Addresses|Medium
 473|Matchsticks to Square|Medium
 526|Beautiful Arrangement|Medium
 695|Max Area of Island|Easy
@@ -219,11 +230,13 @@ No.|Title|Difficulty
 174|Dungeon Game|Hard
 198|House Robber|Easy
 213|House Robber II|Medium
+221|Maximal Square|Medium
 300|Longest Increasing Subsequence|Medium
 322|Coin Change|Medium
 ### Divide and Conquer
 No.|Title|Difficulty
 ---|-----|----------
+241|Different Ways to Add Parentheses|Medium
 315|Count of Smaller Numbers After Self|Hard
 ### Math
 No.|Title|Difficulty  
@@ -258,14 +271,18 @@ No.|Title|Difficulty|Comment
 ### Other  
 No.|Title|Difficulty|Comment  
 ---|-----|----------|-------  
+137|Single Number II|Bit Manipulation
 175|Combine Two Tables|Easy|SQL
 176|Second Highest Salary|Easy|SQL
 177|Nth Highest Salary|Easy|SQL
+180|Consecutive Numbers|Medium|SQL
 181|Employees Earning More Than Their Managers|Easy|SQL
 182|Duplicate Emails|Easy|SQL
 183|Customers Who Never Order|Easy|SQL
+184|Department Highest Salary|Medium|SQL
 190|Reverse Bits|Easy|Bit Manipulation
 191|Number of 1 Bits|Easy|Bit Manipulation
+192|Word Frequency|Medium|Bash
 193|Valid Phone Numbers|Easy|Bash
 194|Transpose File|Medium|Bash
 195|Tenth Line|Easy|Bash
